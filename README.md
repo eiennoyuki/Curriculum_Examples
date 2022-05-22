@@ -1,7 +1,10 @@
 # Curriculum_Examples
 Examples of curriculum material I've designed
 
-### Curriculum_Overview.PDF
+### AGENDA.PNG
+* High-level overview of 7-week onboarding agenda.
+
+### CURRICULUM_OVERVIEW.PDF
 * Page 2-3 preview of the FSM Onboarding Curriculum guide.
 * Collaborated with team to create entire program from scratch.
 
